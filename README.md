@@ -1,10 +1,11 @@
 # Repositório do desafio de Projeto sobre Git/Github da DIO
+
 Repositório criado para o Desafio de Projetos.
 
 ## Links Úteis:
-<<<<<<< HEAD
-[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
-[Markdown Emoji](https://gist.github.com/rxaviers/7360908)
+
+ - [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+ - [Markdown Emoji](https://gist.github.com/rxaviers/7360908)
 
 ## Comandos Úteis do Git:
 
@@ -22,7 +23,37 @@ Repositório criado para o Desafio de Projetos.
  - **git --version:** Verifica a versão do **Git.**
  - **git config --global user.email "seu email":** Usado para configurar o seu email.
  - **git config --global user.name seu usuário:** Usado para configurar o seu nome de usuário.
-=======
- - [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
- - [Markdown Emoji](https://gist.github.com/rxaviers/7360908)
->>>>>>> 47b8e09097bff30769c5a266af0a73a5dbfe32fd
+
+## Infomações Úteis:
+
+### Comados de navegação no Windows:
+
+ - **cd** - Usado para navegação entre as pastas.
+ - **dir** - Usado para listar os arquivos da pasta.
+ - **mkdir** -  É usado para criar novos diretórios.
+ - **del/mrdir** - Usado para deletar diritórios.
+ - **cls** - Usado para lipar a linha de comandos.
+
+### Comandos de navegação no Linux:
+
+- **cd** - Usado para navegação entre as pastas.
+ - **ls** - Usado para listar os arquivos da pasta.
+ - **mkdir** -  É usado para criar novos diretórios.
+ - **rm -rf** - Usado para deletar diritórios.
+ - **clear** - Usado para lipar a linha de comandos.
+
+### Obejetos do **Git:**
+
+ - Blobs
+ - Trees
+ - Commits
+
+### Sha1:
+
+ - **Secure Hash Algorithm** ou **Algoritmo de Hash Seguro**, é um conjunto de funções hash croptográficas projetadas pela **NSA - Agência de Segurança Nacinal dos EUA.**
+
+### Chave **SSH**:
+
+ - **Secure Shell** - também conhecido como **Secure socket shell** é um protocolo que permite a conexão com servidores remotos, de forma criptografada e mais segura, usando um par de chave **RSA.**
+
+ 
