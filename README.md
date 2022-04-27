@@ -2,6 +2,7 @@
 Repositório criado para o Desafio de Projetos.
 
 ## Links Úteis:
+<<<<<<< HEAD
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 [Markdown Emoji](https://gist.github.com/rxaviers/7360908)
 
@@ -21,3 +22,7 @@ Repositório criado para o Desafio de Projetos.
  - **git --version:** Verifica a versão do **Git.**
  - **git config --global user.email "seu email":** Usado para configurar o seu email.
  - **git config --global user.name seu usuário:** Usado para configurar o seu nome de usuário.
+=======
+ - [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+ - [Markdown Emoji](https://gist.github.com/rxaviers/7360908)
+>>>>>>> 47b8e09097bff30769c5a266af0a73a5dbfe32fd
