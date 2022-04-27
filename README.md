@@ -55,5 +55,3 @@ Repositório criado para o Desafio de Projetos.
 ### Chave **SSH**:
 
  - **Secure Shell** - também conhecido como **Secure socket shell** é um protocolo que permite a conexão com servidores remotos, de forma criptografada e mais segura, usando um par de chave **RSA.**
-
- 
