@@ -6,18 +6,22 @@ Repositório criado para o Desafio de Projetos.
 
  - [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
  - [Markdown Emoji](https://gist.github.com/rxaviers/7360908)
+ - [Documentação Git](https://git-scm.com/docs/git/pt_BR)
+
 
 ## Comandos Úteis do Git:
 
- - **git init:** É um comando único que você usa durante a configuração inicial de um noivo Repositório.
+ - **git init:** É um comando único que você usa durante a configuração inicial de um noivo Repositório. Ele inicia o repositorio git no Digetório local. EX: (.git).
  - **git add:**  Adiciona uma alteração no diretório ativo à área de staging. Ele diz ao **Git** que você quer incluir atualizações a um arquivo específico no próximo commit. **Ex: git add .** Nesse exemplo é adicionado todas os arquivos novos e modificações.
  - **git commit:** É usado para criar um instantâneo das alterações preparadas em um cronograma de um histórico de projetos do **Git**.
  - **git status:** Exibe as condições do diretório de trabalho e da área de staging. 
- - **git remote add:** Para adicionar um origin para o repositório se não existe nenhum.
+ - **git remote add:** Para adicionar um origin para o repositório se não existe nenhum. Conecta o repositório local com o repositório online.
  - **git remote -v:** Mostra a lista de repositório cadastrado.
  - **git push:** É usado para enviar o conteúdo do repositório local para um repositório remoto.
  - **git pull:** É usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais.
  - **git clone:** É usado para realizar uma cópia de um repositório remoto.
+ * * Ex: git clone URL nomeDaPasta
+ * * Ex: git clone URL --branch nomeDaBrach --single-brach
  - **git config --list:** Para listar todas as configurações que o **Git** conseguir encontrar naquele momento.
  - **git update:** Usado para atualiar o **Git.**
  - **git --version:** Verifica a versão do **Git.**
